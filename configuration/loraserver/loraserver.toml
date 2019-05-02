@@ -72,7 +72,7 @@ enabled_uplink_channels=[]
 # max_dr=5
 
 [network_server.gateway.backend.mqtt]
-server="tcp://mosquitto:1883"
+server="tcp://172.18.5.3:1883"
 username=""
 password=""
 
