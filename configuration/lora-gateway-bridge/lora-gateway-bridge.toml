@@ -2,6 +2,6 @@
 # configuration example and documentation.
 
 [backend.mqtt]
-server="tcp://mosquitto:1883"
+server="tcp://172.18.5.3:1883"
 username=""
 password=""
