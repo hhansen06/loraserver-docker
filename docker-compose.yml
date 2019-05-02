@@ -9,7 +9,7 @@ services:
   appserver:
     image: loraserver/lora-app-server:2
     ports:
-      - 8081:8080
+      - 7070:8080
     volumes:
       - ./configuration/lora-app-server:/etc/lora-app-server
 
